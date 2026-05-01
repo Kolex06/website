@@ -1,4 +1,10 @@
 export default [
+	   {
+        title: "Asunatracks",
+        summary: "Discover anime and show other people your list",
+        imageUrl:  "https://asunatracks.space/static/asunatracks-logo.png",
+        url: "asunatracks.space",
+    },
     {
         title: "Anime Flow",
         summary: "Discover anime via a flowchart",
